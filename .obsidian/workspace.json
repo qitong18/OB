@@ -11,12 +11,14 @@
             "id": "75cbe1b5ac36eb71",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/第一个md/file-20260517215623959.png"
+                "file": "下载obsidian配置教程/关于配置obsidian的教程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "file-20260517215623959"
+              "icon": "lucide-file",
+              "title": "关于配置obsidian的教程"
             }
           }
         ]
@@ -186,6 +188,7 @@
   "lastOpenFiles": [
     "第一个md.md",
     "下载obsidian配置教程/关于配置obsidian的教程.md",
+    "assets/第一个md/file-20260517215623959.png",
     "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517221014609.png",
     "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517220924239.png",
     "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517220821952.png",
@@ -194,7 +197,6 @@
     "下载obsidian配置教程/assets/关于配置obsidian的教程",
     "下载obsidian配置教程/assets",
     "下载obsidian配置教程",
-    "assets/第一个md/file-20260517215623959.png",
     "assets/第一个md",
     "assets",
     "新建 文本文档.txt",
