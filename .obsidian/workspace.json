@@ -11,14 +11,12 @@
             "id": "75cbe1b5ac36eb71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "第一个md.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/第一个md/file-20260517215623959.png"
               },
-              "icon": "lucide-file",
-              "title": "第一个md"
+              "icon": "lucide-image",
+              "title": "file-20260517215623959"
             }
           }
         ]
@@ -184,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75cbe1b5ac36eb71",
+  "active": "3fb39507d91083e7",
   "lastOpenFiles": [
+    "第一个md.md",
     "下载obsidian配置教程/关于配置obsidian的教程.md",
     "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517221014609.png",
     "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517220924239.png",
@@ -194,7 +193,6 @@
     "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517220530323.png",
     "下载obsidian配置教程/assets/关于配置obsidian的教程",
     "下载obsidian配置教程/assets",
-    "第一个md.md",
     "下载obsidian配置教程",
     "assets/第一个md/file-20260517215623959.png",
     "assets/第一个md",
