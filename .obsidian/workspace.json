@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "配置文件/节点搭建.md",
+                "file": "配置文件/CIL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "节点搭建"
+              "title": "CIL"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "d562eb7384bd6a61",
   "lastOpenFiles": [
-    "节点搭建.md",
     "配置文件/节点搭建.md",
+    "配置文件/CIL.md",
+    "节点搭建.md",
     "配置文件/关于配置obsidian的教程笔记.md",
     "配置文件/P/关于配置obsidian的教程笔记",
     "s.md",
