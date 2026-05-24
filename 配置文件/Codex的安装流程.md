@@ -4,7 +4,7 @@ CC switch下载链接：https://github.com/farion1231/cc-switch/releases
 
 下载Codex可以用微软官方下载或命令行下载
 
-命令行下载方式：
+命令行下载方式：（命令行下载的是CLI）
 确保命令行有node  可用 node -v 看版本号
 其次检查npm -v
 
