@@ -10,4 +10,8 @@ CC switch下载链接：https://github.com/farion1231/cc-switch/releases
 
 node下载链接:https://nodejs.org/zh-cn/download
 
-然后重新在cmd中下载：npm install -g @openai/codex
+powershell运行先：Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+然后才能管理
+
+然后重新在cmd或powershell中下载：npm install -g @openai/codex
+
