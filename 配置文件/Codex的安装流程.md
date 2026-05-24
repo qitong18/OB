@@ -15,3 +15,11 @@ powershell运行先：Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 然后重新在cmd或powershell中下载：npm install -g @openai/codex
 
+
+电脑版下载就是 直接去chatgpt点codex下载就可以
+
+
+
+
+
+
