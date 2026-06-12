@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0986442a113ff5",
+        "id": "c77c7a4856b37337",
         "type": "tabs",
         "children": [
           {
-            "id": "d562eb7384bd6a61",
+            "id": "75cbe1b5ac36eb71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "配置文件/CIL.md",
+                "file": "Claude code下载教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIL"
+              "title": "Claude code下载教程"
             }
           }
         ]
@@ -184,25 +184,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d562eb7384bd6a61",
+  "active": "75cbe1b5ac36eb71",
   "lastOpenFiles": [
-    "配置文件/节点搭建.md",
-    "配置文件/CIL.md",
-    "节点搭建.md",
+    "配置文件/Codex的安装流程.md",
     "配置文件/关于配置obsidian的教程笔记.md",
-    "配置文件/P/关于配置obsidian的教程笔记",
-    "s.md",
-    "未命名.canvas",
-    "第一个md.md",
-    "assets/第一个md/file-20260517215623959.png",
-    "配置文件/P/关于配置obsidian的教程笔记/file-20260520142315670.png",
-    "配置文件/P/关于配置obsidian的教程笔记/file-20260520142315671.png",
-    "配置文件/P/关于配置obsidian的教程笔记/file-20260520142315672.png",
-    "配置文件/P/关于配置obsidian的教程笔记/file-20260520142315673.png",
+    "配置文件/节点搭建.md",
+    "Claude code下载教程.md",
+    "下载obsidian配置教程/关于配置obsidian的教程.md",
     "配置文件/P/关于配置obsidian的教程笔记/file-20260520142315674.png",
-    "配置文件/assets/关于配置obsidian的教程",
+    "配置文件/P/关于配置obsidian的教程笔记/file-20260520142315673.png",
+    "配置文件/P/关于配置obsidian的教程笔记/file-20260520142315672.png",
+    "配置文件/P/关于配置obsidian的教程笔记/file-20260520142315671.png",
+    "配置文件/P/关于配置obsidian的教程笔记/file-20260520142315670.png",
+    "配置文件/P/关于配置obsidian的教程笔记",
     "配置文件/P",
     "配置文件",
+    "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517221014609.png",
+    "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517220924239.png",
+    "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517220821952.png",
+    "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517220643224.png",
+    "下载obsidian配置教程/assets/关于配置obsidian的教程/file-20260517220530323.png",
+    "下载obsidian配置教程/assets/关于配置obsidian的教程",
+    "下载obsidian配置教程/assets",
+    "第一个md.md",
+    "下载obsidian配置教程",
     "assets/第一个md",
     "assets",
     "新建 文本文档.txt",
