@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "配置文件/LNV活动模块接入实战笔记.md",
+                "file": "配置文件/LNV配置表Luban读表完整链路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LNV活动模块接入实战笔记"
+              "title": "LNV配置表Luban读表完整链路"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "75cbe1b5ac36eb71",
   "lastOpenFiles": [
+    "配置文件/LNV活动模块接入实战笔记.md",
     "配置文件/LNV常见问题排查手册.md",
     "Claude code下载教程.md",
     "配置文件/Codex的安装流程.md",
